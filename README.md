@@ -3,7 +3,7 @@ Jokenpo game. Fell free to contribute. It is just a part of portfolio that i am 
 market.
 
 
-## How to iniciate the projet in Android Studio ##
+## How to iniciate the project in Android Studio ##
 1. Have [Android Studio] (https://developer.android.com/studio/index.html) intalled 
 2. Create a project in Android Studio called Jokenpo package br.com.nilsondurval
 3. Clone or dowload this repository
